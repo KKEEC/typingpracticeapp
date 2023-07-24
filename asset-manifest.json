@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/typingpracticeapp/static/js/main.d7117f4b.js",
+    "static/js/787.fc7889ee.chunk.js": "/typingpracticeapp/static/js/787.fc7889ee.chunk.js",
+    "index.html": "/typingpracticeapp/index.html",
+    "main.d7117f4b.js.map": "/typingpracticeapp/static/js/main.d7117f4b.js.map",
+    "787.fc7889ee.chunk.js.map": "/typingpracticeapp/static/js/787.fc7889ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d7117f4b.js"
+  ]
+}
